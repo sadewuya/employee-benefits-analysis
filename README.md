@@ -86,7 +86,7 @@ This dashboard benchmarks Company_22 against peer organizations in the Technolog
 ### 🔗 Interactive Dashboard
 
 View the full interactive version on Tableau Public:  
-[***]
+[https://public.tableau.com/views/employee_benefits_analysis_dashboard/HealthcareCostRiskStrategyTechnologyIndustryBenchmark?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
 
 ## Key Takeaway
 
