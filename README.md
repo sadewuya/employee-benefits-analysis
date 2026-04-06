@@ -65,6 +65,29 @@ This project uses **synthetic datasets** created to simulate:
 
 ---
 
+## 📊 Tableau Dashboards
+
+### Workforce & Risk Overview — Company_22
+
+This dashboard analyzes workforce composition, dependent coverage trends, and utilization risk distribution to understand the underlying drivers of healthcare demand.
+
+![Dashboard 1](dashboards/screenshots/dashboard_1_workforce_risk_overview.png)
+
+---
+
+### Healthcare Cost & Risk Strategy — Technology Industry Benchmark
+
+This dashboard benchmarks Company_22 against peer organizations in the Technology sector, highlighting cost positioning, utilization risk, and strategic opportunities for cost optimization.
+
+![Dashboard 2](dashboards/screenshots/dashboard_2_healthcare_cost_risk_strategy.png)
+
+---
+
+### 🔗 Interactive Dashboard
+
+View the full interactive version on Tableau Public:  
+[***]
+
 ## Key Takeaway
 
 This analysis demonstrates that optimizing healthcare benefits is not about reducing coverage, but about aligning cost structures with actual utilization patterns through targeted strategies and long-term incentive design.
